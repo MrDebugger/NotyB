@@ -9,3 +9,6 @@ NaughtyBee or NotyB is a GUI tool that will help defacers to Notify Multiple Web
 # Direct Download Links
 - <a href="https://ijazurrahim.com/NotyB/index.php?windows">Windows</a> 
 - <a href="https://ijazurrahim.com/NotyB/index.php?linux">Linux</a>
+### Thanks to
+- Umar Arfeen
+- Muhammad Osman
